@@ -18,6 +18,7 @@ Live demo: (https://convertly-nu.vercel.app/)
 
 - **React**
 - **Tailwind CSS**
+- **Radix UI**
 - **Framer Motion**
 
 ## Getting Started
